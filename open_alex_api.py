@@ -1,8 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 """
-OPENALEX DIRECT IMPORTER - CONTINUACIÓN AUTOMÁTICA (Robusto)
+OPENALEX DIRECT IMPORTER 
 - Importa DIRECTAMENTE a Neo4j sin guardar en disco local.
 - Continúa desde el último cursor (ImportProgress).
 - Maneja duplicados verificando existencia ANTES de importar.
