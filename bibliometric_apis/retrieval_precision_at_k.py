@@ -3,7 +3,7 @@
 New retrieval experiment for AWS paper.
 
 Metric: precision@50 = fraction of top-50 results belonging to target cluster.
-Fixed denominator — result can go DOWN if expansion adds noise.
+Changed denominator — so result can go DOWN if expansion adds noise.
 
 
 INPUTS:
