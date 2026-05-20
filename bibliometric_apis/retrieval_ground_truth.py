@@ -13,10 +13,6 @@ Key result: recall@50 baseline = 0.179, meaning 82% of cross-cluster
 cited papers are lexically inaccessible despite confirmed citation links.
 This directly quantifies the AWS failure mode.
 
-USAGE:
-    conda activate aws
-    cd ~/Desktop/openalex
-    python retrieval_ground_truth.py
 
 INPUTS:
     backup_recycled_a/full_corpus/abstracts_full.csv
