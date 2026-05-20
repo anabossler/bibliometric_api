@@ -1,6 +1,5 @@
 """
-retrieval_precision_at_k.py
-===========================
+
 New retrieval experiment for AWS paper.
 
 Metric: precision@50 = fraction of top-50 results belonging to target cluster.
