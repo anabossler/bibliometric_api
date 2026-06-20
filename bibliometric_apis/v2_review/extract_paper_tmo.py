@@ -10,20 +10,6 @@ fields via Claude Haiku 4.5 (OpenRouter):
   - methods    : analytical / experimental procedures
   - objectives : high-level research goals or intended outcomes
 
-WHY PAPER-LEVEL (not cluster-level):
-  The earlier cluster-level TMO (semantic_bridge_retrieval.py) produced
-  generic phrases ("monomer recovery", "waste valorization") that matched
-  many papers within a cluster but not the specific target paper cited.
-  Paper-level TMO preserves the idiosyncratic signal that lexical retrieval
-  was capturing while still providing a structured representation that can
-  be matched semantically across clusters.
-
-ANTI-OR LOCK:
-  This script only EXTRACTS. The retrieval evaluation downstream must
-  compare TMO-based retrieval against a term-count-matched random null
-  (as in semantic_bridge_v2.py condition E) to prove the gain is semantic
-  and not a trivial OR-expansion artifact.
-
 INPUTS:
   backup_recycled_a/full_corpus/abstracts_full.csv  (doi, abstract)
 
