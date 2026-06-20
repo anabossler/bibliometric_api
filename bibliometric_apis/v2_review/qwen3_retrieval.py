@@ -13,9 +13,7 @@ fragmentation.
     byte-for-byte the HyGRAG phase4 protocol (cosine top-K over the same DOI
     order, same pairs, same K), so the Qwen3 column is directly comparable to
     the existing A_lexical / B_sbert / D_specter2 columns.
-  - No held-out split is needed: dense retrieval does not train on the corpus;
-    it encodes abstracts and ranks by cosine. The citation edges are never seen
-    by the encoder.
+
 
 PIPELINE (two phases, resumable)
 --------------------------------
