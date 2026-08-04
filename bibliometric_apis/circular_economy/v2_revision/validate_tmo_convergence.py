@@ -1,4 +1,7 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
+validate_tmo_convergence.py
 
 Validez convergente del léxico *practice-to-talk* frente a la capa TMO
 (Technique-Material-Objective) del grafo de conocimiento.
@@ -28,6 +31,11 @@ Salidas (en --outdir)
   tmo_permutation_null.csv    distribución nula completa
   run_metadata.json           versiones, semilla, hashes de entrada, commit
 
+Credenciales
+------------
+NUNCA se escriben en el código ni se imprimen. La contraseña se toma de la
+variable de entorno indicada en --password-env (por defecto NEO4J_PASSWORD);
+si no existe y hay terminal interactivo, se pide por `getpass`.
 
 Uso
 ---
