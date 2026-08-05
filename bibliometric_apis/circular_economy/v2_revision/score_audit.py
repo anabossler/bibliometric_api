@@ -1,21 +1,24 @@
 import pandas as pd
-from sklearn.metrics import classification_report, cohen_kappa_score
+from sklearn.metrics import cohen_kappa_score, classification_report
 
-h = pd.read_csv("audit_sheet_blind.csv", keep_default_na=False)
-k = pd.read_csv("audit_key_llm.csv", keep_default_na=False)
-m = h.merge(k, on=["kind","term"])
-m["human_category"] = m.human_category.astype(str).str.strip()
-m = m[(m.human_category != "") & (m.human_category.str.lower() != "nan")]
+h   = pd.read_csv("audit_sheet_blind.csv", keep_default_na=False)
+k   = pd.read_csv("audit_key_llm.csv", keep_default_na=False)
+art = pd.read_csv("tmo_article_level.csv")
 
-if len(m) == 0:
-    raise SystemExit("Todavia no hay nada codificado. Corre: python code_audit.py")
+rule = (art[art.obj_class.isin(['operational','discursive','unclassified'])]
+        .groupby('obj_name').obj_class.agg(lambda s: s.mode().iat[0])
+        .rename('rule_class').reset_index().rename(columns={'obj_name':'term'}))
 
-for kind, g in m.groupby("kind"):
-    tot = len(h[h.kind == kind])
-    print(f"\n===== {kind}: {len(g)}/{tot} codificados =====")
-    if len(g) < 10:
-        print("  (pocos aun, sigue codificando)"); continue
-    print(classification_report(g.human_category, g.category, zero_division=0))
-    print(f"Cohen kappa: {cohen_kappa_score(g.human_category, g.category):.3f}")
-    print("\nconfusion (filas=humano, cols=LLM):")
-    print(pd.crosstab(g.human_category, g.category).to_string())
+o = h.merge(k, on=['kind','term']).merge(rule, on='term', how='left')
+o = o[o.kind == 'objective'].copy()
+print("objetivos auditados con rule_class:", o.rule_class.notna().sum(), "/", len(o))
+
+o['human_bin'] = (o.human_category == 'material_technical').astype(int)
+o['llm_bin']   = (o.category       == 'material_technical').astype(int)
+o['rule_bin']  = (o.rule_class     == 'operational').astype(int)
+
+print("kappa humano vs LLM  (8 clases):", round(cohen_kappa_score(o.human_category, o.category), 3))
+print("kappa humano vs LLM  (binaria) :", round(cohen_kappa_score(o.human_bin, o.llm_bin), 3))
+print("kappa humano vs REGLA (binaria):", round(cohen_kappa_score(o.human_bin, o.rule_bin), 3))
+print(pd.crosstab(o.human_bin, o.rule_bin))
+print(classification_report(o.human_bin, o.rule_bin, zero_division=0))
