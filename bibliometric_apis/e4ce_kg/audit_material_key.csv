@@ -1,0 +1,211 @@
+item,term,papers_corpus,category
+1,wheat straw biocomposite,1,composites
+2,noble metals,1,critical_raw_materials
+3,mswi fly ash,1,combustion_residues
+4,medicinal residue,2,healthcare
+5,cobalt,4,critical_raw_materials
+6,zinc ion batteries,1,batteries
+7,magnesium recycling,1,metal
+8,glass waste insulating glass units,1,glass
+9,conductive biological materials,1,advanced_materials
+10,coated paper,1,paper_cardboard
+11,pla composites,3,composites
+12,third generation photovoltaics,1,photovoltaic
+13,waste-derived oils,1,used_oils
+14,non-metallic composite materials,1,composites
+15,plastic food packaging,9,plastic
+16,clothes appliances paper food,1,textile
+17,polybutylene adipate terephthalate pbat,1,bioplastics_biopolymers
+18,wheat bran,3,biomass_agrifood
+19,glass packaging waste,1,glass
+20,lithium,5,critical_raw_materials
+21,smart materials,2,advanced_materials
+22,orchard soil,1,soils_dredging
+23,modified wood,1,wood
+24,co2 byproduct,1,co2_gases
+25,animal slurry,1,manure
+26,crumb rubber modified asphalt,5,rubber
+27,celery by-products,1,biomass_agrifood
+28,pesticide wastewater,1,water_wastewater
+29,recyclable textiles,1,textile
+30,re-refined engine oil bottoms,1,used_oils
+31,solar pv panels,31,photovoltaic
+32,proton exchange membrane electrolyzers and fuel cells,1,advanced_materials
+33,elevator drives,1,weee
+34,slag and polyurethane foam,1,other_material
+35,silicate slag,6,combustion_residues
+36,recycled tires,2,rubber
+37,wood-based waste bamboo flooring hdf,1,wood
+38,aluminum sheet metal,1,metal
+39,denim textile,1,textile
+40,pig slurry coffee wastes,1,manure
+41,garden waste,1,vegetal_waste
+42,chlorpyrifos-methyl pesticide,1,chemical
+43,sustainable packaging,4,packaging
+44,chicken manure and efb,1,manure
+45,swill-cooked dirty oil,1,used_oils
+46,agar starch silver nanoparticles olive stone extract olive mill wastewater,1,advanced_materials
+47,pla waste,6,bioplastics_biopolymers
+48,crushed waste glass,4,glass
+49,paper mill wastewater,1,water_wastewater
+50,waste residue and mud,1,generic_waste_resource
+51,cast iron solid waste,1,metal
+52,second-life car batteries,1,batteries
+53,garbage,17,municipal_mixed
+54,beta-glucan,1,biomass_agrifood
+55,rubber aggregates and rca,1,rubber
+56,oily-biological sludge,1,sludge
+57,biologic medication packaging,1,packaging
+58,electrical and electronic equipment,45,weee
+59,ordinary portland cement,1,construction_demolition
+60,multilayer waste,1,packaging
+61,green polymers,1,bioplastics_biopolymers
+62,metallurgical slag,2,combustion_residues
+63,acrylan and terlenka,1,textile
+64,automotive products,8,vehicles
+65,car frame,1,metal
+66,waste toner powder,1,paper_cardboard
+67,medication waste,1,healthcare
+68,existing products,1,generic_waste_resource
+69,ecological environment,1,sector_or_concept
+70,cherry by-products,1,biomass_agrifood
+71,tomato plants,1,biomass_agrifood
+72,stretch film regranulate,1,plastic
+73,dry sludge,2,sludge
+74,digital devices,2,weee
+75,strawberry,1,food_waste
+76,sludge and organic residues,1,sludge
+77,biochar-manure soil,1,manure
+78,coffee sludge,1,sludge
+79,geothermal resources,2,fuels_energy_carriers
+80,co2 fuel propellant,1,co2_gases
+81,pv module,1,photovoltaic
+82,e-devices,1,weee
+83,mine water,2,water_wastewater
+84,ceramsite dust,1,construction_demolition
+85,recycled glass powder,1,glass
+86,industrial vehicles,1,vehicles
+87,synthetic wastewaters,1,water_wastewater
+88,liquids,2,other_material
+89,textile blends,1,textile
+90,organic materials biogas,1,fuels_energy_carriers
+91,epdm rubber,1,rubber
+92,plant residues,2,vegetal_waste
+93,sideritic tailings ferrous slats,1,other_mineral
+94,vocs,1,co2_gases
+95,surgical waste,1,healthcare
+96,multimetallic alloy-based anodes,1,metal
+97,aloe vera biocomposite,1,composites
+98,manure and feed waste,1,manure
+99,farmed fish,1,biomass_agrifood
+100,shredder residue,1,municipal_mixed
+101,organic waste wastewater,1,water_wastewater
+102,fly ash copper,1,combustion_residues
+103,dental laboratories,1,sector_or_concept
+104,printed paper,1,paper_cardboard
+105,sodium lauryl ether sulfate,1,chemical
+106,green trade legal system,1,sector_or_concept
+107,childrens product,2,other_material
+108,crm production,1,critical_raw_materials
+109,softwood kraft pulp,1,paper_cardboard
+110,plastic pollution co2,1,co2_gases
+111,residential areas,1,sector_or_concept
+112,recycled plastic nanocomposites,1,plastic
+113,waste foundry slag,1,combustion_residues
+114,hydrogen peroxide,5,chemical
+115,agricultural soil,1,soils_dredging
+116,escherichia coli,1,healthcare
+117,grinding swarf,1,metal
+118,pet-contaminated recycled pp,1,plastic
+119,mud blocks and bamboo,1,construction_demolition
+120,kitchen furniture,1,wood
+121,dredged sediments,16,soils_dredging
+122,plant debris,1,vegetal_waste
+123,lignin hydrogels,1,advanced_materials
+124,yard waste,1,vegetal_waste
+125,automobile component,1,vehicles
+126,memory bga components,1,weee
+127,scarce metals,2,critical_raw_materials
+128,hardened mortar,2,construction_demolition
+129,steel and plastics,1,other_material
+130,food,39,food_waste
+131,bioethanol,1,fuels_energy_carriers
+132,rubber powder from tire recovery,1,rubber
+133,unplasticised polyvinyl chloride,1,plastic
+134,food waste and surplus,1,food_waste
+135,electric vehicle battery metal,1,critical_raw_materials
+136,coal barren,1,fuels_energy_carriers
+137,work resources,5,generic_waste_resource
+138,lead acid battery,3,batteries
+139,biochar malachite green,1,other_material
+140,pbde congeners,1,chemical
+141,regenerated soils,1,soils_dredging
+142,polyphenols,4,other_material
+143,acid orange-7 dye,1,chemical
+144,sustainability supports,1,sector_or_concept
+145,washing machines,24,weee
+146,sand zeolite ggbs cdw,1,construction_demolition
+147,electric retrofit of vehicles,1,vehicles
+148,waste oil,7,used_oils
+149,aqueous sodium-ion batteries,1,batteries
+150,fusel oils,1,used_oils
+151,zirconium dioxide,1,other_mineral
+152,pharmaceutical packaging,1,packaging
+153,polyamide membranes,1,plastic
+154,recycled shatter brick,1,construction_demolition
+155,agricultural remnants poultry waste,1,manure
+156,food waste steel other materials products vehicles construction equipment,1,municipal_mixed
+157,landfill mined residues,1,other_mineral
+158,supercritical carbon dioxide,1,co2_gases
+159,books,1,paper_cardboard
+160,multilayer packaging,10,packaging
+161,foreign investments,1,sector_or_concept
+162,soil solution,1,water_wastewater
+163,coal sludge,1,other_mineral
+164,tectona grandis by-products,1,wood
+165,vegetable trimmings,1,food_waste
+166,subsurface resources,5,generic_waste_resource
+167,styrene butadiene rubber dust,1,rubber
+168,biobased acrylate photopolymer resins,1,bioplastics_biopolymers
+169,c-si pv modules,1,photovoltaic
+170,mswm,1,municipal_mixed
+171,tree-leaf,1,vegetal_waste
+172,urban forest,1,vegetal_waste
+173,organic food packaging,1,packaging
+174,construction and demolition wood waste,1,wood
+175,edible surpluses,1,food_waste
+176,lithium-ion battery cathode,9,batteries
+177,internal combustion engines and electric vehicles,1,vehicles
+178,surplus drugs,1,healthcare
+179,odorous compounds,1,chemical
+180,eaf oxidizing slags,1,combustion_residues
+181,hydrocarbons,7,fuels_energy_carriers
+182,co2 titanium oxide,1,co2_gases
+183,uranium mill tailings,1,other_mineral
+184,food wood garden cardboard waste,1,municipal_mixed
+185,sludge orange peels biochar,1,sludge
+186,silicon pv,2,photovoltaic
+187,poly-lactic acid,3,bioplastics_biopolymers
+188,salvaged elements fragmented pieces,1,generic_waste_resource
+189,gravel and sand wash mud,1,soils_dredging
+190,pulp paper packaging and graphics,1,paper_cardboard
+191,mining soil biomass,1,other_mineral
+192,plastics fossil fuels,1,fuels_energy_carriers
+193,beachwood sawdust and magnetite,1,wood
+194,gypsum composites hdpe waste,1,composites
+195,pectin-based composite films,1,composites
+196,food losses,1,food_waste
+197,biodegradable polymers,38,bioplastics_biopolymers
+198,cigs photovoltaic panel,1,photovoltaic
+199,recycled fiber,12,textile
+200,broken glass waste aluminum,1,glass
+201,tidelands,1,soils_dredging
+202,lubricants,1,used_oils
+203,residuos organicos,5,generic_waste_resource
+204,bacillus subtilis,1,healthcare
+205,pem electrolyzers,1,advanced_materials
+206,hotel waste,1,municipal_mixed
+207,glass materials,1,glass
+208,by-products from wastewater,1,sludge
+209,end-of-life vehicles,20,vehicles
+210,graphite from spent libs,1,batteries
