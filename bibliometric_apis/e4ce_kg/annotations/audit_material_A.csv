@@ -1,0 +1,211 @@
+item,term,papers_corpus,family_annotator,notes
+1,wheat straw biocomposite,1,composites,Biocomposite de fibra natural; alternativa: biomass_agrifood si el foco es la paja
+2,noble metals,1,metal,Clase genérica (Au/Ag/PGM); solo los PGM serían critical_raw_materials
+3,mswi fly ash,1,combustion_residues,
+4,medicinal residue,2,biomass_agrifood,Probable residuo de medicina herbal (lignocelulósico); si es residuo farmacéutico → chemical. Revisar fuente
+5,cobalt,4,critical_raw_materials,
+6,zinc ion batteries,1,batteries,
+7,magnesium recycling,1,critical_raw_materials,Mg está en la lista CRM de la UE
+8,glass waste insulating glass units,1,glass,
+9,conductive biological materials,1,advanced_materials,
+10,coated paper,1,paper_cardboard,
+11,pla composites,3,composites,Matriz bioplástica; alternativa: bioplastics_biopolymers
+12,third generation photovoltaics,1,photovoltaic,
+13,waste-derived oils,1,fuels_energy_carriers,Aceites de pirólisis/combustible; no son aceites usados
+14,non-metallic composite materials,1,composites,
+15,plastic food packaging,9,plastic,Material declarado → no va a packaging
+16,clothes appliances paper food,1,generic_waste_resource,Lista de varios materiales; error de extracción
+17,polybutylene adipate terephthalate pbat,1,bioplastics_biopolymers,Biodegradable aunque sea de origen fósil
+18,wheat bran,3,biomass_agrifood,
+19,glass packaging waste,1,glass,
+20,lithium,5,critical_raw_materials,
+21,smart materials,2,advanced_materials,
+22,orchard soil,1,soils_dredging,"Suelo como medio receptor, no residuo"
+23,modified wood,1,wood,
+24,co2 byproduct,1,co2_gases,
+25,animal slurry,1,manure,
+26,crumb rubber modified asphalt,5,rubber,El material recuperado es el caucho de neumático
+27,celery by-products,1,biomass_agrifood,
+28,pesticide wastewater,1,water_wastewater,
+29,recyclable textiles,1,textile,
+30,re-refined engine oil bottoms,1,used_oils,
+31,solar pv panels,31,photovoltaic,
+32,proton exchange membrane electrolyzers and fuel cells,1,other_material,Dispositivo electroquímico sin familia propia; los PGM recuperados serían critical_raw_materials
+33,elevator drives,1,weee,
+34,slag and polyurethane foam,1,combustion_residues,Dos materiales; la espuma de PU sería plastic
+35,silicate slag,6,combustion_residues,
+36,recycled tires,2,rubber,
+37,wood-based waste bamboo flooring hdf,1,wood,
+38,aluminum sheet metal,1,metal,
+39,denim textile,1,textile,
+40,pig slurry coffee wastes,1,manure,Mezcla; los residuos de café serían biomass_agrifood
+41,garden waste,1,vegetal_waste,
+42,chlorpyrifos-methyl pesticide,1,chemical,
+43,sustainable packaging,4,packaging,
+44,chicken manure and efb,1,manure,EFB (racimo vacío de palma) sería biomass_agrifood
+45,swill-cooked dirty oil,1,biomass_agrifood,Aceite de cocina usado (gutter oil) → biomass_agrifood según el libro de códigos
+46,agar starch silver nanoparticles olive stone extract olive mill wastewater,1,biomass_agrifood,Cadena multimaterial; subproductos del olivar. Alternativa: bioplastics_biopolymers si el foco es la película
+47,pla waste,6,bioplastics_biopolymers,
+48,crushed waste glass,4,glass,
+49,paper mill wastewater,1,water_wastewater,
+50,waste residue and mud,1,generic_waste_resource,
+51,cast iron solid waste,1,metal,
+52,second-life car batteries,1,batteries,
+53,garbage,17,municipal_mixed,
+54,beta-glucan,1,biomass_agrifood,"Compuesto extraído de subproductos (salvado, levadura)"
+55,rubber aggregates and rca,1,rubber,RCA (árido reciclado de hormigón) sería construction_demolition
+56,oily-biological sludge,1,sludge,
+57,biologic medication packaging,1,packaging,Material no especificado
+58,electrical and electronic equipment,45,weee,
+59,ordinary portland cement,1,construction_demolition,"Conglomerante virgen, no residuo; familia mineral de construcción más cercana"
+60,multilayer waste,1,packaging,Envase multicapa = material mixto
+61,green polymers,1,bioplastics_biopolymers,
+62,metallurgical slag,2,combustion_residues,
+63,acrylan and terlenka,1,textile,Nombres comerciales de fibras acrílica y poliéster
+64,automotive products,8,vehicles,
+65,car frame,1,vehicles,
+66,waste toner powder,1,chemical,EWC 08 03 17/18 (tintas de impresión); no es el equipo
+67,medication waste,1,healthcare,
+68,existing products,1,generic_waste_resource,
+69,ecological environment,1,sector_or_concept,
+70,cherry by-products,1,biomass_agrifood,
+71,tomato plants,1,biomass_agrifood,Residuo de un cultivo concreto
+72,stretch film regranulate,1,plastic,
+73,dry sludge,2,sludge,
+74,digital devices,2,weee,
+75,strawberry,1,biomass_agrifood,
+76,sludge and organic residues,1,sludge,
+77,biochar-manure soil,1,manure,Enmienda de suelo; alternativa: soils_dredging
+78,coffee sludge,1,biomass_agrifood,Subproducto del procesado del café; si es lodo de depuradora → sludge
+79,geothermal resources,2,sector_or_concept,"Recurso energético, no portador material"
+80,co2 fuel propellant,1,co2_gases,
+81,pv module,1,photovoltaic,
+82,e-devices,1,weee,
+83,mine water,2,water_wastewater,
+84,ceramsite dust,1,other_mineral,
+85,recycled glass powder,1,glass,
+86,industrial vehicles,1,vehicles,
+87,synthetic wastewaters,1,water_wastewater,
+88,liquids,2,generic_waste_resource,Inespecífico
+89,textile blends,1,textile,
+90,organic materials biogas,1,biomass_agrifood,Materia prima no especificada; el biogás sería fuels_energy_carriers
+91,epdm rubber,1,rubber,
+92,plant residues,2,vegetal_waste,No se atribuye a un cultivo concreto
+93,sideritic tailings ferrous slats,1,other_mineral,Relaves mineros
+94,vocs,1,co2_gases,Corriente gaseosa
+95,surgical waste,1,healthcare,
+96,multimetallic alloy-based anodes,1,batteries,Ánodos de batería; revisar si es otro uso electroquímico
+97,aloe vera biocomposite,1,composites,
+98,manure and feed waste,1,manure,
+99,farmed fish,1,biomass_agrifood,Origen animal/acuicultura; posible artefacto
+100,shredder residue,1,municipal_mixed,Fluff de trituradora = EWC-Stat W103 residuos de clasificación; alternativa: vehicles si es ASR
+101,organic waste wastewater,1,water_wastewater,
+102,fly ash copper,1,combustion_residues,
+103,dental laboratories,1,sector_or_concept,
+104,printed paper,1,paper_cardboard,
+105,sodium lauryl ether sulfate,1,chemical,
+106,green trade legal system,1,sector_or_concept,
+107,childrens product,2,generic_waste_resource,
+108,crm production,1,critical_raw_materials,
+109,softwood kraft pulp,1,paper_cardboard,
+110,plastic pollution co2,1,plastic,Mezcla de conceptos
+111,residential areas,1,sector_or_concept,
+112,recycled plastic nanocomposites,1,plastic,Matriz de plástico reciclado; no es compuesto reforzado con fibra
+113,waste foundry slag,1,combustion_residues,
+114,hydrogen peroxide,5,chemical,
+115,agricultural soil,1,soils_dredging,
+116,escherichia coli,1,other_material,"Organismo, probable artefacto de extracción"
+117,grinding swarf,1,metal,
+118,pet-contaminated recycled pp,1,plastic,
+119,mud blocks and bamboo,1,construction_demolition,"Materiales de construcción (tierra + bambú), no necesariamente residuos"
+120,kitchen furniture,1,wood,Supuesto de tablero de partículas; alternativa: generic_waste_resource
+121,dredged sediments,16,soils_dredging,
+122,plant debris,1,vegetal_waste,
+123,lignin hydrogels,1,bioplastics_biopolymers,"Hay familia específica, así que no va a advanced_materials"
+124,yard waste,1,vegetal_waste,
+125,automobile component,1,vehicles,
+126,memory bga components,1,weee,
+127,scarce metals,2,critical_raw_materials,
+128,hardened mortar,2,construction_demolition,
+129,steel and plastics,1,metal,Dos materiales; el plástico sería plastic
+130,food,39,food_waste,
+131,bioethanol,1,fuels_energy_carriers,
+132,rubber powder from tire recovery,1,rubber,
+133,unplasticised polyvinyl chloride,1,plastic,
+134,food waste and surplus,1,food_waste,
+135,electric vehicle battery metal,1,critical_raw_materials,Metal recuperado de baterías → CRM según el libro de códigos
+136,coal barren,1,other_mineral,Ganga/estéril de carbón
+137,work resources,5,sector_or_concept,
+138,lead acid battery,3,batteries,
+139,biochar malachite green,1,biomass_agrifood,Biochar como adsorbente del colorante; el colorante sería chemical
+140,pbde congeners,1,chemical,
+141,regenerated soils,1,soils_dredging,
+142,polyphenols,4,biomass_agrifood,Compuestos recuperados de subproductos agroalimentarios
+143,acid orange-7 dye,1,chemical,
+144,sustainability supports,1,sector_or_concept,
+145,washing machines,24,weee,
+146,sand zeolite ggbs cdw,1,construction_demolition,Multimaterial; la GGBS sería combustion_residues
+147,electric retrofit of vehicles,1,vehicles,
+148,waste oil,7,used_oils,Revisar que no sea aceite de cocina usado (→ biomass_agrifood)
+149,aqueous sodium-ion batteries,1,batteries,
+150,fusel oils,1,biomass_agrifood,Subproducto de la destilación de alcohol
+151,zirconium dioxide,1,advanced_materials,Cerámica técnica / nanopartícula
+152,pharmaceutical packaging,1,packaging,
+153,polyamide membranes,1,plastic,
+154,recycled shatter brick,1,construction_demolition,
+155,agricultural remnants poultry waste,1,biomass_agrifood,Si la gallinaza es lo principal → manure
+156,food waste steel other materials products vehicles construction equipment,1,generic_waste_resource,Lista multimaterial (término truncado en origen)
+157,landfill mined residues,1,municipal_mixed,
+158,supercritical carbon dioxide,1,co2_gases,
+159,books,1,paper_cardboard,
+160,multilayer packaging,10,packaging,
+161,foreign investments,1,sector_or_concept,
+162,soil solution,1,soils_dredging,Agua de poro del suelo; posible artefacto
+163,coal sludge,1,sludge,Finos de carbón del lavado; alternativa: other_mineral
+164,tectona grandis by-products,1,wood,Residuos de aserradero de teca
+165,vegetable trimmings,1,biomass_agrifood,Si procede del comercio o la restauración → food_waste
+166,subsurface resources,5,generic_waste_resource,
+167,styrene butadiene rubber dust,1,rubber,
+168,biobased acrylate photopolymer resins,1,bioplastics_biopolymers,
+169,c-si pv modules,1,photovoltaic,
+170,mswm,1,municipal_mixed,Siglas de MSW management; con criterio estricto sobre actividades → sector_or_concept
+171,tree-leaf,1,vegetal_waste,
+172,urban forest,1,sector_or_concept,
+173,organic food packaging,1,packaging,
+174,construction and demolition wood waste,1,wood,EWC 17 02 01 → W075 residuos de madera
+175,edible surpluses,1,food_waste,
+176,lithium-ion battery cathode,9,batteries,
+177,internal combustion engines and electric vehicles,1,vehicles,
+178,surplus drugs,1,healthcare,
+179,odorous compounds,1,co2_gases,Emisiones gaseosas; alternativa: chemical
+180,eaf oxidizing slags,1,combustion_residues,
+181,hydrocarbons,7,fuels_energy_carriers,
+182,co2 titanium dioxide,1,co2_gases,Probable fotorreducción de CO2 sobre TiO2
+183,uranium mill tailings,1,other_mineral,
+184,food wood garden cardboard waste,1,municipal_mixed,Biorresiduo mixto
+185,sludge orange peels biochar,1,sludge,Las cáscaras de naranja serían biomass_agrifood
+186,silicon pv,2,photovoltaic,
+187,poly-lactic acid,3,bioplastics_biopolymers,
+188,salvaged elements fragmented pieces,1,construction_demolition,Supuesto: elementos constructivos recuperados
+189,gravel and sand wash mud,1,other_mineral,Residuo de cantera
+190,pulp paper packaging and graphics,1,paper_cardboard,
+191,mining soil biomass,1,other_mineral,Mezcla; revisar fuente
+192,plastics fossil fuels,1,plastic,
+193,beachwood sawdust and magnetite,1,wood,
+194,gypsum composites hdpe waste,1,plastic,El residuo es HDPE
+195,pectin-based composite films,1,bioplastics_biopolymers,
+196,food losses,1,food_waste,Pérdidas en etapas tempranas de la cadena; alternativa: biomass_agrifood
+197,biodegradable polymers,38,bioplastics_biopolymers,
+198,cigs photovoltaic panel,1,photovoltaic,
+199,recycled fiber,12,paper_cardboard,Supuesto: fibra papelera; revisar si es textil o de carbono
+200,broken glass waste aluminum,1,glass,El aluminio sería metal
+201,tidelands,1,sector_or_concept,
+202,lubricants,1,used_oils,
+203,residuos organicos,5,food_waste,Biorresiduo de recogida separada; alternativa: municipal_mixed
+204,bacillus subtilis,1,other_material,"Organismo, probable artefacto"
+205,pem electrolyzers,1,other_material,Igual que el ítem 32
+206,hotel waste,1,municipal_mixed,
+207,glass materials,1,glass,
+208,by-products from wastewater,1,sludge,Sólidos separados del agua residual; si es P recuperado → critical_raw_materials
+209,end-of-life vehicles,20,vehicles,
+210,graphite from spent libs,1,critical_raw_materials,Elemento recuperado de baterías
