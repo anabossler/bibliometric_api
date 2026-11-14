@@ -7,3 +7,6 @@ route_run2.log
 route_input.jsonl
 route_raw__*.jsonl
 route_run.log
+route_adjud_raw__*.jsonl
+route_final_adjudicated__*.csv
+adjud_run.log

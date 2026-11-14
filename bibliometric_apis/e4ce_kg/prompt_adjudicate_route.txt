@@ -1,0 +1,13 @@
+{{DEFINITIONS}}
+Three annotators read the same title and abstract independently and disagreed on the routes of the materials below. For each material you see what each annotator proposed, with the quote that supports each route. The annotators can all be wrong. Decide the routes yourself from the title and abstract, applying the definitions and rules above, and copy a verbatim quote for every route you assign.
+
+Title: {{TITLE}}
+
+Abstract: {{ABSTRACT}}
+
+Proposals:
+{{PROPOSALS}}
+
+Materials: {{MATERIALS}}
+
+Answer only with JSON of the form {"materials":[{"material":"","routes":[{"route":"","evidence":""}]}]}.
