@@ -1,0 +1,177 @@
+item,paper_id,material,family,gemini,gpt,qwen,final
+1,https://openalex.org/W4386776660,polymeric waste weee,weee,energy_recovery;recycling,energy_recovery;recycling,energy_recovery;recycling,energy_recovery;recycling
+2,https://openalex.org/W2518727992,steel scrap,metal,recycling,prevention_reuse;recycling,recycling,recycling
+3,https://openalex.org/W2955398850,submarine sediments,soils_dredging,recycling,backfilling;recycling,prevention_reuse;recycling,recycling
+4,https://openalex.org/W2080048966,plastic,plastic,prevention_reuse,not_stated,not_stated,not_stated
+5,https://openalex.org/W4413910160,old tyres,rubber,prevention_reuse;recycling,backfilling;other_disposal,backfilling,backfilling
+6,https://openalex.org/W4403940345,white mud,other_mineral,prevention_reuse;recycling,recycling,recycling,recycling
+7,https://openalex.org/W2601145492,aluminium cans,metal,recycling,recycling,recycling,recycling
+8,https://openalex.org/W4412050213,plastic waste,plastic,recycling,recycling,recycling,recycling
+9,https://openalex.org/W3114754197,contaminated soil,soils_dredging,recycling,prevention_reuse,recycling,recycling
+10,https://openalex.org/W4409167311,sewage sludge,sludge,energy_recovery;incineration;landfill;recycling,energy_recovery,energy_recovery;recycling,energy_recovery;recycling
+11,https://openalex.org/W2913876413,caucho granulado,rubber,recycling,prevention_reuse;recycling,recycling,recycling
+12,https://openalex.org/W4318485864,wood carbonization by-products,wood,energy_recovery;prevention_reuse,energy_recovery;recycling,energy_recovery;recycling,energy_recovery;recycling
+13,https://openalex.org/W2996108425,urban forestry waste,vegetal_waste,prevention_reuse,recycling,prevention_reuse;recycling,prevention_reuse;recycling
+14,https://openalex.org/W4407460253,medical waste,healthcare,prevention_reuse,prevention_reuse,prevention_reuse,prevention_reuse
+15,https://openalex.org/W2617377559,bio-based building materials,construction_demolition,prevention_reuse,not_stated,not_stated,not_stated
+16,https://openalex.org/W4387538900,invasive plants,vegetal_waste,prevention_reuse,prevention_reuse;recycling,prevention_reuse,prevention_reuse
+17,https://openalex.org/W4315781588,rice husk ash,combustion_residues,prevention_reuse;recycling,prevention_reuse,recycling,prevention_reuse;recycling
+18,https://openalex.org/W4393941746,food waste,food_waste,prevention_reuse,not_stated,not_stated,not_stated
+19,https://openalex.org/W4319444954,bike,vehicles,prevention_reuse,prevention_reuse,prevention_reuse,prevention_reuse
+20,https://openalex.org/W4391663135,nmc cathode materials,batteries,prevention_reuse,prevention_reuse;recycling,not_stated,prevention_reuse
+21,https://openalex.org/W4406090631,cetp sludge,sludge,recycling,recycling,recycling,recycling
+22,https://openalex.org/W4414833147,volcanic ash,combustion_residues,landfill;prevention_reuse;recycling,landfill;recycling,prevention_reuse;recycling,landfill;prevention_reuse;recycling
+23,https://openalex.org/W4393587424,automotive parts,vehicles,prevention_reuse,prevention_reuse;recycling,prevention_reuse,prevention_reuse
+24,https://openalex.org/W4361222522,clay bricks,construction_demolition,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling
+25,https://openalex.org/W2050182391,camphor,chemical,not_stated,not_stated,not_stated,not_stated
+26,https://openalex.org/W4375861193,lean duplex stainless steels,metal,recycling,recycling,recycling,recycling
+27,https://openalex.org/W4396229095,commercial building stocks,construction_demolition,prevention_reuse,not_stated,not_stated,not_stated
+28,https://openalex.org/W4393181098,diesel trains electric trains,vehicles,not_stated,not_stated,not_stated,not_stated
+29,https://openalex.org/W4410162908,electric vehicle batteries,batteries,prevention_reuse,prevention_reuse,prevention_reuse,prevention_reuse
+30,https://openalex.org/W4284673439,steel slag,combustion_residues,recycling,other_disposal;prevention_reuse,recycling,recycling
+31,https://openalex.org/W2901433509,glass,glass,landfill;recycling,landfill;other_disposal;recycling,landfill;recycling,landfill;recycling
+32,https://openalex.org/W4403762569,textile waste,textile,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling
+33,https://openalex.org/W4409551942,electric vehicles,vehicles,prevention_reuse,not_stated,not_stated,not_stated
+34,https://openalex.org/W4362473122,iron ore tailings,other_mineral,prevention_reuse;recycling,not_stated,not_stated,not_stated
+35,https://openalex.org/W4392966311,returnable glass bottle,glass,prevention_reuse,not_stated,not_stated,not_stated
+36,https://openalex.org/W4382599775,wood material,wood,prevention_reuse,not_stated,not_stated,not_stated
+37,https://openalex.org/W2067141400,automotive products,vehicles,prevention_reuse,prevention_reuse,prevention_reuse,prevention_reuse
+38,https://openalex.org/W4367302328,steel scrap,metal,recycling,not_stated,recycling,recycling
+39,https://openalex.org/W4311765304,electric vehicle batteries,batteries,prevention_reuse,prevention_reuse,prevention_reuse,prevention_reuse
+40,https://openalex.org/W4402082816,timber,wood,prevention_reuse,prevention_reuse;recycling,prevention_reuse,prevention_reuse
+41,https://openalex.org/W2902966291,chicken manure,manure,energy_recovery;incineration;recycling,energy_recovery;recycling,energy_recovery;recycling,energy_recovery;recycling
+42,https://openalex.org/W4407832976,vehicles,vehicles,prevention_reuse;recycling,recycling,energy_recovery;landfill;recycling,recycling
+43,https://openalex.org/W4283464504,spent pickling liquor,chemical,landfill;recycling,landfill,landfill;recycling,landfill;recycling
+44,https://openalex.org/W4385346367,onion waste,food_waste,prevention_reuse,prevention_reuse;recycling,prevention_reuse,prevention_reuse
+45,https://openalex.org/W4366316376,electronic products,weee,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling
+46,https://openalex.org/W4412758801,plastic waste,plastic,recycling,not_stated,not_stated,not_stated
+47,https://openalex.org/W4387749057,sediment,soils_dredging,not_stated,other_disposal;prevention_reuse,prevention_reuse,prevention_reuse
+48,https://openalex.org/W4411782594,rhyolite silica fume fly ash slag cement,combustion_residues,recycling,recycling,recycling,recycling
+49,https://openalex.org/W4405623244,tires,rubber,prevention_reuse;recycling,recycling,recycling,recycling
+50,https://openalex.org/W2348531125,green waste,vegetal_waste,incineration;landfill;recycling,recycling,recycling,recycling
+51,https://openalex.org/W4410894817,wood distillate,chemical,prevention_reuse,energy_recovery,prevention_reuse,prevention_reuse
+52,https://openalex.org/W4407398483,electronic waste,weee,prevention_reuse,not_stated,prevention_reuse,prevention_reuse
+53,https://openalex.org/W3164628985,umbilical cord blood units,healthcare,prevention_reuse,prevention_reuse,prevention_reuse,prevention_reuse
+54,https://openalex.org/W4377092441,blast furnace slag,combustion_residues,recycling,recycling,not_stated,recycling
+55,https://openalex.org/W4409557283,contaminated soils lignin,soils_dredging,energy_recovery;prevention_reuse,other_disposal;prevention_reuse,prevention_reuse;recycling,prevention_reuse
+56,https://openalex.org/W4294225044,food,food_waste,prevention_reuse,not_stated,not_stated,not_stated
+57,https://openalex.org/W4409935046,multiwall paper bags,paper_cardboard,prevention_reuse,prevention_reuse;recycling,not_stated,prevention_reuse
+58,https://openalex.org/W4390892536,plastic waste xev li-ion batteries,batteries,prevention_reuse;recycling,prevention_reuse;recycling,recycling,prevention_reuse;recycling
+59,https://openalex.org/W4389486013,volatile organic compounds,chemical,prevention_reuse;recycling,prevention_reuse;recycling,recycling,prevention_reuse;recycling
+60,https://openalex.org/W2609825750,urban bio-waste,municipal_mixed,prevention_reuse,recycling,recycling,recycling
+61,https://openalex.org/W4321459730,airport terminal retail waste,municipal_mixed,energy_recovery;incineration;landfill;prevention_reuse;recycling,prevention_reuse;recycling,energy_recovery;prevention_reuse;recycling,energy_recovery;prevention_reuse;recycling
+62,https://openalex.org/W4409884058,rubber waste,rubber,recycling,other_disposal;recycling,recycling,recycling
+63,https://openalex.org/W3022540758,tyre,rubber,prevention_reuse;recycling,prevention_reuse;recycling,not_stated,prevention_reuse;recycling
+64,https://openalex.org/W3108968880,electronic waste,weee,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling
+65,https://openalex.org/W4409869340,foamed lightweight soil,soils_dredging,recycling,not_stated,not_stated,not_stated
+66,https://openalex.org/W4414026941,building materials,construction_demolition,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling
+67,https://openalex.org/W4400798401,oil,used_oils,prevention_reuse,not_stated,not_stated,not_stated
+68,https://openalex.org/W4385741587,garbage,municipal_mixed,recycling,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling
+69,https://openalex.org/W2799917550,building materials,construction_demolition,prevention_reuse,not_stated,not_stated,not_stated
+70,https://openalex.org/W4399713012,cast glass,glass,not_stated,prevention_reuse,not_stated,not_stated
+71,https://openalex.org/W2752983837,pig manure,manure,energy_recovery;prevention_reuse;recycling,energy_recovery;recycling,energy_recovery;recycling,energy_recovery;recycling
+72,https://openalex.org/W3007027298,oil,used_oils,not_stated,not_stated,not_stated,not_stated
+73,https://openalex.org/W3101526307,paper and paper products,paper_cardboard,recycling,recycling,recycling,recycling
+74,https://openalex.org/W4377115545,softwood kraft pulp,paper_cardboard,prevention_reuse,not_stated,recycling,not_stated
+75,https://openalex.org/W3129170814,medical waste,healthcare,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling
+76,https://openalex.org/W4402369513,cooking oil residues,used_oils,energy_recovery;recycling,energy_recovery;other_disposal,energy_recovery;recycling,energy_recovery;recycling
+77,https://openalex.org/W4414920108,surgical waste,healthcare,prevention_reuse,prevention_reuse,prevention_reuse,prevention_reuse
+78,https://openalex.org/W4409034816,damaged windshields,glass,prevention_reuse;recycling,recycling,prevention_reuse;recycling,prevention_reuse;recycling
+79,https://openalex.org/W4412866533,horticultural waste,vegetal_waste,prevention_reuse,recycling,recycling,recycling
+80,https://openalex.org/W4321596630,livestock waste,manure,prevention_reuse;recycling,prevention_reuse;recycling,recycling,prevention_reuse;recycling
+81,https://openalex.org/W4391638041,batteries,batteries,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling
+82,https://openalex.org/W3137001121,paper,paper_cardboard,energy_recovery;prevention_reuse;recycling,not_stated,not_stated,not_stated
+83,https://openalex.org/W4280564758,volatile fatty acids,chemical,prevention_reuse;recycling,recycling,recycling,recycling
+84,https://openalex.org/W4286371338,paddle and tennis balls,rubber,incineration;landfill;recycling,prevention_reuse;recycling,recycling,recycling
+85,https://openalex.org/W4392343521,alumina waste,other_mineral,recycling,not_stated,not_stated,not_stated
+86,https://openalex.org/W4410773541,forest residues,wood,energy_recovery,energy_recovery;recycling,energy_recovery;recycling,energy_recovery;recycling
+87,https://openalex.org/W4220893440,alsi10mg aluminium powder,metal,prevention_reuse,prevention_reuse,prevention_reuse,prevention_reuse
+88,https://openalex.org/W4362657107,health care waste,healthcare,incineration;landfill,incineration;landfill,incineration;landfill,incineration;landfill
+89,https://openalex.org/W4391097660,end-of-life vehicles,vehicles,prevention_reuse;recycling,other_disposal;prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling
+90,https://openalex.org/W4385499743,oil,used_oils,not_stated,not_stated,not_stated,not_stated
+91,https://openalex.org/W4392438946,estuarine sediments,soils_dredging,recycling,other_disposal;prevention_reuse,recycling,recycling
+92,https://openalex.org/W2965848476,waste lcds,weee,landfill;recycling,recycling,backfilling;recycling,recycling
+93,https://openalex.org/W4410243102,textile waste,textile,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling
+94,https://openalex.org/W3087932948,quartz sand,other_mineral,prevention_reuse,not_stated,not_stated,not_stated
+95,https://openalex.org/W4382983503,lithium-ion batteries,batteries,prevention_reuse;recycling,recycling,recycling,recycling
+96,https://openalex.org/W4294243680,plastic waste,plastic,prevention_reuse,not_stated,not_stated,not_stated
+97,https://openalex.org/W4389461635,insect frass,manure,not_stated,not_stated,prevention_reuse,not_stated
+98,https://openalex.org/W4396674358,industrial equipment,weee,prevention_reuse,prevention_reuse,prevention_reuse;recycling,prevention_reuse
+99,https://openalex.org/W4392470416,timber,wood,prevention_reuse,not_stated,not_stated,not_stated
+100,https://openalex.org/W2368458961,salt lakes,other_mineral,prevention_reuse,not_stated,not_stated,not_stated
+101,https://openalex.org/W2362192020,chicken feathers,textile,recycling,recycling,recycling,recycling
+102,https://openalex.org/W4412616507,forestry biomass pulp paper,paper_cardboard,energy_recovery;recycling,energy_recovery;other_disposal,energy_recovery;recycling,energy_recovery;recycling
+103,https://openalex.org/W4412183872,nev battery,batteries,recycling,recycling,recycling,recycling
+104,https://openalex.org/W4404112193,waste flowers,vegetal_waste,energy_recovery;landfill;other_disposal;recycling,energy_recovery;recycling,energy_recovery;recycling,energy_recovery;recycling
+105,https://openalex.org/W4386929846,used clothing,textile,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling
+106,https://openalex.org/W4405924133,cattle waste,manure,energy_recovery;recycling,energy_recovery;recycling,recycling,energy_recovery;recycling
+107,https://openalex.org/W4320083624,sugar cane bagasse ash clay soil,soils_dredging,landfill;recycling,landfill;recycling,recycling,landfill;recycling
+108,https://openalex.org/W2996713952,tannery sludge,sludge,recycling,recycling,recycling,recycling
+109,https://openalex.org/W4411618467,fashion materials,textile,prevention_reuse,prevention_reuse,not_stated,prevention_reuse
+110,https://openalex.org/W3167021477,basalt lime mud,other_mineral,recycling,recycling,recycling,recycling
+111,https://openalex.org/W4379519680,textile,textile,recycling,not_stated,not_stated,not_stated
+112,https://openalex.org/W4313530378,food waste,food_waste,prevention_reuse;recycling,recycling,not_stated,recycling
+113,https://openalex.org/W3013393483,chicken manure,manure,prevention_reuse;recycling,prevention_reuse;recycling,not_stated,prevention_reuse;recycling
+114,https://openalex.org/W4293195927,paper waste,paper_cardboard,prevention_reuse;recycling,recycling,recycling,recycling
+115,https://openalex.org/W4211255990,plastic waste,plastic,recycling,recycling,recycling,recycling
+116,https://openalex.org/W2784730983,food waste,food_waste,not_stated,recycling,recycling,recycling
+117,https://openalex.org/W4412391307,alumina waste,other_mineral,prevention_reuse;recycling,prevention_reuse;recycling,recycling,prevention_reuse;recycling
+118,https://openalex.org/W4386714689,hydrogen vehicles,vehicles,prevention_reuse,not_stated,not_stated,not_stated
+119,https://openalex.org/W4212829687,celesto-barite mine waste,other_mineral,recycling,prevention_reuse;recycling,recycling,recycling
+120,https://openalex.org/W4411171585,sewage sludge,sludge,incineration;recycling,energy_recovery;landfill;prevention_reuse;recycling,backfilling;energy_recovery;recycling,energy_recovery;recycling
+121,https://openalex.org/W4413992218,waste glass,glass,backfilling;recycling,recycling,recycling,recycling
+122,https://openalex.org/W4389222578,plastic waste,plastic,recycling,recycling,recycling,recycling
+123,https://openalex.org/W2810577236,wood waste,wood,prevention_reuse,prevention_reuse,not_stated,prevention_reuse
+124,https://openalex.org/W3163437246,household uncollected waste,municipal_mixed,prevention_reuse,prevention_reuse;recycling,prevention_reuse,prevention_reuse
+125,https://openalex.org/W4386283485,recycled concrete,construction_demolition,recycling,recycling,recycling,recycling
+126,https://openalex.org/W2049175236,skeletal muscle,healthcare,not_stated,not_stated,not_stated,not_stated
+127,https://openalex.org/W4410317293,sewage sludge,sludge,energy_recovery;recycling,energy_recovery;other_disposal;recycling,energy_recovery;recycling,energy_recovery;recycling
+128,https://openalex.org/W4414126172,copper,metal,prevention_reuse,not_stated,prevention_reuse,prevention_reuse
+129,https://openalex.org/W3125087831,food,food_waste,prevention_reuse,prevention_reuse,not_stated,prevention_reuse
+130,https://openalex.org/W4411633048,offsite housing,construction_demolition,prevention_reuse,not_stated,not_stated,not_stated
+131,https://openalex.org/W4402467571,plastic waste,plastic,recycling,not_stated,not_stated,not_stated
+132,https://openalex.org/W4399674328,incineration waste by-products,combustion_residues,recycling,backfilling;recycling,recycling,recycling
+133,https://openalex.org/W4206697818,municipal solid waste,municipal_mixed,prevention_reuse,energy_recovery;other_disposal;prevention_reuse,prevention_reuse;recycling,prevention_reuse
+134,https://openalex.org/W2354515848,titanium slag,combustion_residues,energy_recovery;recycling,recycling,energy_recovery;recycling,energy_recovery;recycling
+135,https://openalex.org/W4410378824,glass powder,glass,recycling,recycling,recycling,recycling
+136,https://openalex.org/W4401009832,phenol solutions,chemical,prevention_reuse;recycling,energy_recovery,recycling,recycling
+137,https://openalex.org/W4390941478,garbage,municipal_mixed,not_stated,not_stated,not_stated,not_stated
+138,https://openalex.org/W4385671702,textile waste,textile,prevention_reuse,not_stated,not_stated,not_stated
+139,https://openalex.org/W1597446425,skeletal muscle,healthcare,prevention_reuse,not_stated,not_stated,not_stated
+140,https://openalex.org/W2919774639,paper material,paper_cardboard,prevention_reuse;recycling,recycling,recycling,recycling
+141,https://openalex.org/W4312257523,plastic waste,plastic,prevention_reuse,not_stated,not_stated,not_stated
+142,https://openalex.org/W4388196191,ndfeb magnets,metal,recycling,recycling,recycling,recycling
+143,https://openalex.org/W4285730308,iron-rich waste,metal,recycling,recycling,not_stated,recycling
+144,https://openalex.org/W4409236311,sediment,soils_dredging,backfilling;prevention_reuse;recycling,backfilling;recycling,backfilling;prevention_reuse,backfilling;prevention_reuse;recycling
+145,https://openalex.org/W2268262968,pharmaceutical intermediates,chemical,prevention_reuse,not_stated,not_stated,not_stated
+146,https://openalex.org/W3080773074,plant wastes,vegetal_waste,prevention_reuse,prevention_reuse;recycling,not_stated,prevention_reuse
+147,https://openalex.org/W4384133776,glass powder,glass,recycling,recycling,recycling,recycling
+148,https://openalex.org/W4410818519,garbage,municipal_mixed,landfill;prevention_reuse;recycling,landfill;recycling,landfill;prevention_reuse;recycling,landfill;prevention_reuse;recycling
+149,https://openalex.org/W4402395137,sewage sludge,sludge,recycling,energy_recovery;recycling,not_stated,recycling
+150,https://openalex.org/W4205359533,decommissioned batteries,batteries,prevention_reuse,energy_recovery;prevention_reuse,prevention_reuse;recycling,prevention_reuse
+151,https://openalex.org/W3101532923,acrylic varnish,chemical,prevention_reuse,prevention_reuse,prevention_reuse,prevention_reuse
+152,https://openalex.org/W4411308841,coffee sludge,sludge,recycling,recycling,recycling,recycling
+153,https://openalex.org/W4380449595,timber,wood,prevention_reuse,not_stated,prevention_reuse,prevention_reuse
+154,https://openalex.org/W3170010847,tires,rubber,prevention_reuse,prevention_reuse,prevention_reuse,prevention_reuse
+155,https://openalex.org/W2796388477,waste lubricant oil,used_oils,prevention_reuse,recycling,recycling,recycling
+156,https://openalex.org/W2369883642,chicken manure,manure,prevention_reuse,prevention_reuse,not_stated,prevention_reuse
+157,https://openalex.org/W4389210553,waste glass,glass,landfill;recycling,recycling,prevention_reuse;recycling,recycling
+158,https://openalex.org/W4407772472,waste-derived oils,used_oils,energy_recovery,energy_recovery,energy_recovery,energy_recovery
+159,https://openalex.org/W2967883263,textbooks,paper_cardboard,prevention_reuse,prevention_reuse,not_stated,prevention_reuse
+160,https://openalex.org/W4293716508,food waste,food_waste,prevention_reuse;recycling,prevention_reuse;recycling,not_stated,prevention_reuse;recycling
+161,https://openalex.org/W4310155393,clinical plastic waste,healthcare,incineration;landfill;recycling,energy_recovery;landfill;recycling,recycling,landfill;recycling
+162,https://openalex.org/W3022380482,human hair,textile,prevention_reuse;recycling,other_disposal;recycling,recycling,recycling
+163,https://openalex.org/W3016935480,medical sensor,weee,prevention_reuse,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling
+164,https://openalex.org/W3119080532,steel slag,combustion_residues,recycling,recycling,recycling,recycling
+165,https://openalex.org/W3169823783,sewage sludge ash,sludge,recycling,recycling,recycling,recycling
+166,https://openalex.org/W2353065631,crumb rubber modified asphalt,rubber,prevention_reuse,not_stated,not_stated,not_stated
+167,https://openalex.org/W4317035447,pruning residues,vegetal_waste,prevention_reuse,prevention_reuse;recycling,not_stated,prevention_reuse
+168,https://openalex.org/W4409526480,rdf hazardous waste biomass,municipal_mixed,energy_recovery;landfill,energy_recovery;landfill,backfilling;energy_recovery,energy_recovery;landfill
+169,https://openalex.org/W4364374128,food,food_waste,prevention_reuse,prevention_reuse,prevention_reuse,prevention_reuse
+170,https://openalex.org/W4413143327,electronic waste,weee,prevention_reuse;recycling,prevention_reuse,not_stated,prevention_reuse
+171,https://openalex.org/W3137693012,spent oil,used_oils,recycling,recycling,recycling,recycling
+172,https://openalex.org/W3004736159,dairy manure fine solids,manure,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling
+173,https://openalex.org/W4402516936,buildings,construction_demolition,prevention_reuse,not_stated,not_stated,not_stated
+174,https://openalex.org/W4391057787,furniture,wood,prevention_reuse,not_stated,not_stated,not_stated
+175,https://openalex.org/W2363198817,green waste,vegetal_waste,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling,prevention_reuse;recycling
+176,https://openalex.org/W4306742431,waste oil,used_oils,energy_recovery;prevention_reuse,energy_recovery;other_disposal,energy_recovery,energy_recovery
