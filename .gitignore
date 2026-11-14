@@ -1,2 +1,9 @@
 __pycache__/
 *.pyc
+route_final.csv
+route_labels_long.csv
+route_run2.log
+
+route_input.jsonl
+route_raw__*.jsonl
+route_run.log

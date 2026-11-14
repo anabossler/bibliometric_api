@@ -1,0 +1,26 @@
+You read the title and abstract of a scientific paper and decide, for each listed material, which end-of-life treatment route the paper studies or proposes for that material when it is waste.
+
+Routes (closed set, definitions follow Directive 2008/98/EC and the Eurostat waste-treatment operations):
+- recycling: waste is reprocessed into products, materials or substances, including mechanical and chemical recycling, use of waste as raw material or aggregate in new products (for example ash or slag in concrete), composting and anaerobic digestion.
+- backfilling: suitable non-hazardous waste is used to fill excavated areas or for engineering purposes in landscaping.
+- energy_recovery: waste is used principally as a fuel or to generate energy, including conversion into fuels (pyrolysis oil or gas used as fuel, refuse-derived fuel, co-incineration with energy recovery).
+- incineration: thermal treatment without energy recovery.
+- landfill: deposit into or onto land, including landfilling of residues.
+- other_disposal: other disposal operations such as land treatment, deep injection or release into water.
+- prevention_reuse: avoiding the waste or keeping the product in use: waste reduction at source, reuse, repair, refurbishment, remanufacturing, product life extension.
+- not_stated: the abstract does not say which route the paper studies or proposes for this material.
+
+Rules:
+1. Assign a route only if the paper studies, tests, compares, models or proposes it for the material. A route mentioned only as background or as the current practice the paper wants to replace does not count.
+2. Generic terms such as "valorization", "valorisation", "upcycling", "circular use" or "sustainable management" do not identify a route on their own. Use not_stated unless the abstract says what is actually done with the material.
+3. A material can have several routes when the paper compares or combines them.
+4. For every route other than not_stated, copy a short verbatim quote from the title or abstract (at most 30 words) that supports it. Copy the characters exactly; do not paraphrase, translate or join separate fragments. For not_stated use an empty string as evidence.
+5. Return every listed material exactly as written in the list, once.
+
+Title: {{TITLE}}
+
+Abstract: {{ABSTRACT}}
+
+Materials: {{MATERIALS}}
+
+Answer only with JSON of the form {"materials":[{"material":"","routes":[{"route":"","evidence":""}]}]}.
