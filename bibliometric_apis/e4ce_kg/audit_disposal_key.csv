@@ -1,0 +1,41 @@
+item,paper_id,material,family,route_sampled,primary,adjudicated
+1,https://openalex.org/W4394063488,as hg coal fly ash steelmaking slag,combustion_residues,backfilling,backfilling;recycling,backfilling
+2,https://openalex.org/W4408074047,red mud,other_mineral,backfilling,backfilling;landfill,backfilling
+3,https://openalex.org/W4360838445,petroleum hydrocarbons soil,soils_dredging,other_disposal,other_disposal;prevention_reuse,other_disposal;prevention_reuse
+4,https://openalex.org/W4413929894,phyllite,other_mineral,backfilling,backfilling;prevention_reuse,backfilling
+5,https://openalex.org/W4283215268,invasive plants,vegetal_waste,other_disposal,other_disposal;prevention_reuse;recycling,other_disposal;recycling
+6,https://openalex.org/W4293162836,glass packaging waste,glass,landfill,landfill;prevention_reuse;recycling,landfill;prevention_reuse;recycling
+7,https://openalex.org/W4390788110,garbage,municipal_mixed,incineration,energy_recovery;incineration;recycling,energy_recovery;incineration
+8,https://openalex.org/W3096468106,recycled concrete,construction_demolition,backfilling,backfilling;recycling,recycling
+9,https://openalex.org/W4400019232,slag,combustion_residues,backfilling,backfilling;recycling,backfilling;recycling
+10,https://openalex.org/W3107329987,glass waste insulating glass units,glass,landfill,landfill;prevention_reuse;recycling,prevention_reuse;recycling
+11,https://openalex.org/W4380685350,mine land,other_mineral,backfilling,backfilling;prevention_reuse,prevention_reuse
+12,https://openalex.org/W4392517783,chemical end products,chemical,landfill,landfill;recycling,landfill;recycling
+13,https://openalex.org/W4308034471,plastic waste,plastic,landfill,energy_recovery;landfill;recycling,energy_recovery;landfill;recycling
+14,https://openalex.org/W4366977379,plastic,plastic,landfill,energy_recovery;landfill;recycling,energy_recovery;landfill;recycling
+15,https://openalex.org/W3026928314,household food waste,food_waste,incineration,energy_recovery;incineration;recycling,energy_recovery;incineration;recycling
+16,https://openalex.org/W4313188709,rest- und sperrmüll,municipal_mixed,incineration,incineration,energy_recovery
+17,https://openalex.org/W4383069040,plastic waste,plastic,incineration,energy_recovery;incineration;landfill;recycling,energy_recovery;landfill;recycling
+18,https://openalex.org/W4406865039,gravel rubber mixtures,rubber,backfilling,backfilling,backfilling;other_disposal
+19,https://openalex.org/W3085585307,sewage sludge,sludge,incineration,incineration;prevention_reuse;recycling,incineration;prevention_reuse;recycling
+20,https://openalex.org/W4405379784,over-burnt bricks,construction_demolition,landfill,landfill;recycling,recycling
+21,https://openalex.org/W4409312786,textile waste,textile,other_disposal,other_disposal;prevention_reuse,other_disposal;prevention_reuse
+22,https://openalex.org/W3213520135,dredged sediments,soils_dredging,other_disposal,other_disposal,backfilling;other_disposal
+23,https://openalex.org/W3217517072,tbm spoil,soils_dredging,backfilling,backfilling,backfilling
+24,https://openalex.org/W4366598446,paper waste,paper_cardboard,other_disposal,energy_recovery;other_disposal;prevention_reuse;recycling,energy_recovery;recycling
+25,https://openalex.org/W4405559124,wastewater cement,construction_demolition,other_disposal,other_disposal;recycling,recycling
+26,https://openalex.org/W4406781006,creosote-impregnated timber,wood,landfill,energy_recovery;landfill;recycling,energy_recovery;landfill;recycling
+27,https://openalex.org/W4413797000,spent pickling liquor,chemical,landfill,landfill;recycling,landfill;recycling
+28,https://openalex.org/W4399055588,rubber powder from tire recovery,rubber,backfilling,backfilling,backfilling
+29,https://openalex.org/W3024083617,food waste,food_waste,landfill,energy_recovery;landfill;recycling,energy_recovery;landfill;recycling
+30,https://openalex.org/W4386947369,plastic packaging,plastic,incineration,incineration;landfill;recycling,incineration;landfill;recycling
+31,https://openalex.org/W4389285764,paper-based packaging,paper_cardboard,landfill,landfill,energy_recovery;incineration;landfill;recycling
+32,https://openalex.org/W4409500356,rust preventatives,chemical,other_disposal,other_disposal;prevention_reuse,prevention_reuse
+33,https://openalex.org/W4376115239,healthcare waste,healthcare,other_disposal,incineration;landfill;other_disposal,not_stated
+34,https://openalex.org/W4323310606,waste acid,chemical,other_disposal,other_disposal;prevention_reuse;recycling,prevention_reuse;recycling
+35,https://openalex.org/W4405698854,plastic waste,plastic,incineration,energy_recovery;incineration;landfill;recycling,energy_recovery;incineration;landfill;recycling
+36,https://openalex.org/W2982132751,textile,textile,incineration,incineration;landfill;prevention_reuse,incineration;landfill;prevention_reuse
+37,https://openalex.org/W4322007926,plastic packaging,plastic,incineration,incineration;landfill;recycling,recycling
+38,https://openalex.org/W2360736623,dewatered sludge cakes,sludge,backfilling,backfilling,backfilling
+39,https://openalex.org/W2376121936,livestock waste,manure,other_disposal,other_disposal;prevention_reuse;recycling,other_disposal;prevention_reuse;recycling
+40,https://openalex.org/W3109493225,wood waste,wood,incineration,incineration;prevention_reuse;recycling,incineration;landfill;recycling
