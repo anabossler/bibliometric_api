@@ -14,3 +14,6 @@ paper_authorships_raw.jsonl
 paper_countries.csv
 paper_authorships_raw.jsonl
 paper_countries.csv
+eurostat_family_ops.csv
+family_eu_table.csv
+country_family_panel.csv
