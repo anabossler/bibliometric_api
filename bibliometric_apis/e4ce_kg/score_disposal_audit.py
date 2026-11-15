@@ -6,7 +6,9 @@ precision of the route in the primary labels is the share of those pairs in
 which the annotator also assigns the route, reported with a Wilson interval.
 For the adjudicated labels the same share is computed on the sampled pairs
 whose adjudicated label contains the route. The script also lists what the
-annotator assigned when the route was not confirmed.
+annotator assigned when the route was not confirmed. Because the annotator
+separates energy recovery from incineration, the incineration-sampled pairs
+are also scored for thermal treatment (either route).
 
 Usage:
     python score_disposal_audit.py annotations/audit_disposal_A.csv
@@ -21,6 +23,7 @@ HERE = Path(__file__).resolve().parent
 ROUTES = ["landfill", "incineration", "backfilling", "other_disposal"]
 CODES = {"recycling", "backfilling", "energy_recovery", "incineration", "landfill",
          "other_disposal", "prevention_reuse", "not_stated"}
+THERMAL = {"energy_recovery", "incineration"}
 Z = 1.959964
 
 
@@ -62,6 +65,13 @@ def main():
         share = 100 * hits / len(items) if items else float("nan")
         print(f"{route} | {hits}/{len(items)} = {share:.2f}% ({100 * lo:.2f}-{100 * hi:.2f}) | "
               f"{adj_hits}/{len(adj)} | {dict(missed.most_common())}")
+
+    items = [i for i, k in key.items() if k["route_sampled"] == "incineration"]
+    hits = sum(bool(human[i] & THERMAL) for i in items)
+    lo, hi = wilson(hits, len(items))
+    share = 100 * hits / len(items) if items else float("nan")
+    print(f"thermal (incineration-sampled, energy_recovery or incineration) | "
+          f"{hits}/{len(items)} = {share:.2f}% ({100 * lo:.2f}-{100 * hi:.2f})")
 
     for name in ("primary", "adjudicated"):
         exact = sum(parse(key[i][name] or "not_stated") == human[i] for i in key)
