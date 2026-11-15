@@ -1,0 +1,17 @@
+{
+  "upload_type": "dataset",
+  "title": "Treatment routes in circular economy research and EU waste-treatment statistics by material family: extraction outputs, human annotations and family tables",
+  "creators": [
+    {"name": "Bossler, Ana", "affiliation": "University of Alicante", "orcid": "0000-0003-4787-1375"},
+    {"name": "Fullana, Andrés", "affiliation": "University of Alicante"}
+  ],
+  "description": "<p>Data of the study linking 9,956 papers of the E4CE knowledge graph to the Eurostat treatment of 22 material families aligned with EWC-Stat Rev. 4.</p><p>Contents: frozen extraction input (paper identifiers, titles and material terms; abstracts removed), prompts, raw outputs of the three extraction models and of the adjudicator, aggregated route labels and verified quotes, blind annotation samples with their keys, the human annotations and the label map applied to them, the material-family vocabulary and term classification, the Eurostat env_wastrt extract by family, country and year, the EU-27 family table for 2022, the country panel and the correlation results. MANIFEST.csv gives the size, SHA-256 and source path of each file.</p><p>Abstracts are not redistributed; each paper is identified by its OpenAlex ID. Eurostat data: source Eurostat (env_wastrt, env_wasgen), reused under the Eurostat reuse policy.</p>",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": ["circular economy", "waste treatment", "Eurostat", "EWC-Stat", "knowledge graph", "large language models", "human annotation"],
+  "related_identifiers": [
+    {"relation": "isDerivedFrom", "identifier": "10.5281/zenodo.24182046", "scheme": "doi"}
+  ],
+  "notes": "Funded by grant PID2022-137364OB-I00 (REBORN), MICIU/AEI/10.13039/501100011033 and ERDF/EU.",
+  "version": "1.0"
+}
