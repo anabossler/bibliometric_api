@@ -17,3 +17,6 @@ paper_countries.csv
 eurostat_family_ops.csv
 family_eu_table.csv
 country_family_panel.csv
+alignment_stats.csv
+fig_alignment.pdf
+fig_alignment.png
