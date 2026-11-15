@@ -1,0 +1,38 @@
+label,code
+Recycling,recycling
+Resource recovery,recycling
+Nutrient recovery,recycling
+Nutrient recycling,recycling
+Anaerobic digestion,recycling
+Energy recovery,energy_recovery
+Reuse,prevention_reuse
+Repair,prevention_reuse
+Redistribution,prevention_reuse
+Remanufacturing,prevention_reuse
+Refurbishment,prevention_reuse
+Sharing,prevention_reuse
+Second life,prevention_reuse
+Waste prevention,prevention_reuse
+No explicit circular route,not_stated
+No specific route,not_stated
+No explicit recovery,not_stated
+No material recovery,not_stated
+Recycling potential,not_stated
+Resource recovery potential,not_stated
+Reuse potential,not_stated
+Potential nutrient recovery,not_stated
+Material valorisation potential,not_stated
+Land application potential,not_stated
+Design for circularity,not_stated
+Design for disassembly,not_stated
+Packaging redesign,not_stated
+Pollution treatment,not_stated
+Material processing,not_stated
+Remediation,not_stated
+Collection,not_stated
+Repurposing,DECIDE
+By-product valorisation,DECIDE
+Landfill mining,DECIDE
+Sorting for recycling,DECIDE
+Waste treatment,DECIDE
+Disposal,DECIDE
