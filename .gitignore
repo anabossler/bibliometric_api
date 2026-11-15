@@ -12,3 +12,5 @@ route_final_adjudicated__*.csv
 adjud_run.log
 paper_authorships_raw.jsonl
 paper_countries.csv
+paper_authorships_raw.jsonl
+paper_countries.csv
