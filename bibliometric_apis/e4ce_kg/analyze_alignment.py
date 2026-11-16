@@ -128,7 +128,7 @@ def main():
         ax.set_ylim(-2, 102)
         ax.set_xlabel(f"EU-27 waste treated by {AXIS[name]} in 2022 (%)")
         ax.set_ylabel(f"Papers studying {AXIS[name]} (%)")
-        ax.set_title(f"{titles[name]}\nSpearman \u03c1 = {st['spearman_rho']:.2f}, "
+        ax.set_title(f"{titles[name]}\nSpearman \u03c1 = {st['spearman_rho']:.4f}, "
                      f"p = {st['permutation_p']:.4f}", fontsize=8, color="#0b0b0b")
         ax.grid(color="#ebeae6", lw=0.6)
         ax.set_axisbelow(True)

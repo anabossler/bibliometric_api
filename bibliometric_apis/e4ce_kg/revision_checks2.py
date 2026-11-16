@@ -147,5 +147,19 @@ def main():
           f"bootstrap 95% CI {clo:.4f} to {chi:.4f}")
 
 
+    print("\n== 7. decomposition of the recycling share")
+    none = {f: 100 * sum(research_flags(lab)["no_eurostat_route"]
+                         for (_, fam), lab in routes.items() if fam == f) / papers[f] for f in fams}
+    print(f"papers with a Eurostat route: {len(cond)} of {total_papers} "
+          f"({100 * len(cond) / total_papers:.2f}%) | share with no Eurostat route from "
+          f"{min(none.values()):.2f}% to {max(none.values()):.2f}%")
+    for name, a, b in (("conditional recycling vs conditional thermal",
+                        [cshare[f]["recycling"] for f in fams], [cshare[f]["thermal"] for f in fams]),
+                       ("EU recycling share vs share with no Eurostat route",
+                        [float(eu[f]["eu_pct_recycling"]) for f in fams], [none[f] for f in fams])):
+        rho, p, clo, chi = correlation(a, b, rng)
+        print(f"{name}: rho {rho:.4f} | permutation p {p:.4f} | "
+              f"bootstrap 95% CI {clo:.4f} to {chi:.4f}")
+
 if __name__ == "__main__":
     main()
