@@ -1,0 +1,41 @@
+item,paper_id,material,family,primary,adjudicated
+1,https://openalex.org/W4408170032,plastic waste,plastic,energy_recovery,energy_recovery
+2,https://openalex.org/W2974983850,swine wastewater,manure,energy_recovery;recycling,energy_recovery;recycling
+3,https://openalex.org/W2410772852,swine wastewater,manure,energy_recovery,energy_recovery;recycling
+4,https://openalex.org/W4413474794,plastic waste,plastic,energy_recovery;recycling,energy_recovery;recycling
+5,https://openalex.org/W4205730054,plastic waste,plastic,incineration;landfill,not_stated
+6,https://openalex.org/W3199421442,green waste,vegetal_waste,energy_recovery;prevention_reuse,energy_recovery;recycling
+7,https://openalex.org/W3178969340,plastic waste,plastic,energy_recovery;recycling,energy_recovery;recycling
+8,https://openalex.org/W3016437716,ship waste oils and sludge,sludge,energy_recovery,energy_recovery
+9,https://openalex.org/W4413253832,sawdust,wood,energy_recovery,energy_recovery
+10,https://openalex.org/W2955484508,sewage sludge,sludge,energy_recovery;prevention_reuse;recycling,energy_recovery;recycling
+11,https://openalex.org/W4410416830,plastic waste,plastic,energy_recovery,not_stated
+12,https://openalex.org/W4413466774,wood residues,wood,energy_recovery,energy_recovery
+13,https://openalex.org/W4400183597,plastic waste,plastic,energy_recovery;incineration;landfill;recycling,energy_recovery;landfill;recycling
+14,https://openalex.org/W2923225912,plastic waste,plastic,energy_recovery,energy_recovery;recycling
+15,https://openalex.org/W4404301641,plastic waste face mask microplastic,plastic,energy_recovery;landfill;recycling,energy_recovery;landfill;recycling
+16,https://openalex.org/W4380487667,textile,textile,energy_recovery;recycling,energy_recovery
+17,https://openalex.org/W2527864805,plastic waste,plastic,incineration;prevention_reuse,energy_recovery;prevention_reuse
+18,https://openalex.org/W2513396660,construction demolition waste,construction_demolition,energy_recovery,energy_recovery
+19,https://openalex.org/W2937399900,biodegradable waste,municipal_mixed,energy_recovery;recycling,recycling
+20,https://openalex.org/W3170000267,polyolefins and polystyrene,plastic,energy_recovery;recycling,recycling
+21,https://openalex.org/W3187433011,plastic waste,plastic,energy_recovery;recycling,energy_recovery;recycling
+22,https://openalex.org/W4392626622,plastic waste,plastic,energy_recovery;recycling,energy_recovery;recycling
+23,https://openalex.org/W4405320916,coffee waste,food_waste,energy_recovery;prevention_reuse;recycling,energy_recovery;recycling
+24,https://openalex.org/W2473804179,diaper waste,municipal_mixed,energy_recovery;recycling,energy_recovery;recycling
+25,https://openalex.org/W4401510360,food waste,food_waste,energy_recovery,not_stated
+26,https://openalex.org/W3142842255,flotate and vegetables,food_waste,energy_recovery,energy_recovery
+27,https://openalex.org/W4412115964,plastic waste,plastic,incineration;recycling,incineration;landfill;recycling
+28,https://openalex.org/W4408999114,spent coffee grounds biosolids cake,sludge,energy_recovery,energy_recovery
+29,https://openalex.org/W4411569290,sewage sludge organic solid waste,sludge,energy_recovery;recycling,energy_recovery;recycling
+30,https://openalex.org/W4379261019,plastic waste,plastic,energy_recovery,not_stated
+31,https://openalex.org/W3173873519,animal waste crop residue,manure,energy_recovery;prevention_reuse,energy_recovery
+32,https://openalex.org/W4386033736,food waste,food_waste,energy_recovery;prevention_reuse,energy_recovery
+33,https://openalex.org/W4404230967,plastic waste,plastic,energy_recovery,energy_recovery
+34,https://openalex.org/W4206738411,waste oil and grease,used_oils,energy_recovery;prevention_reuse;recycling,energy_recovery;recycling
+35,https://openalex.org/W2348494356,sewage sludge,sludge,energy_recovery;recycling,energy_recovery;recycling
+36,https://openalex.org/W4414658553,polyethylene terephthalate,plastic,energy_recovery,energy_recovery
+37,https://openalex.org/W3083819718,plastic waste,plastic,energy_recovery;prevention_reuse;recycling,energy_recovery;recycling
+38,https://openalex.org/W4411397268,fishing nets,plastic,energy_recovery;landfill;recycling,energy_recovery;landfill;recycling
+39,https://openalex.org/W4294589327,plastic waste,plastic,incineration;landfill;recycling,incineration;landfill;recycling
+40,https://openalex.org/W3044599892,jarosite,other_mineral,energy_recovery;recycling,recycling
