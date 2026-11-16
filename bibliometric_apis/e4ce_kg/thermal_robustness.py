@@ -56,6 +56,8 @@ def precision(route_ann, disposal_ann, final):
     print("== precision of thermal labels in the existing annotations")
     print("random sample, pairs with a thermal primary label:")
     for i, k in sorted(key_r.items(), key=lambda x: int(x[0])):
+        if i not in human_r:
+            continue
         label = codes(k["final"])
         if label & THERMAL:
             hit = bool(human_r[i] & THERMAL)
